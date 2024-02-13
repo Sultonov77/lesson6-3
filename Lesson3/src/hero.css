@@ -1,0 +1,85 @@
+.hero {
+  display: flex;
+  margin: 40px 30px;
+  justify-content: space-between;
+}
+.hero__left {
+  width: 50%;
+  text-align: start;
+}
+h2 {
+  color: rgb(24, 29, 25);
+  font-family: roboto;
+  font-size: 50px;
+  font-weight: 770;
+  line-height: 95px;
+  letter-spacing: 0%;
+}
+
+.healthy {
+  color: rgb(44, 149, 83);
+}
+p {
+  color: rgb(49, 51, 50);
+  font-family: roboto;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 34px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 25px;
+}
+.main__photo {
+  width: 700px;
+  height: 650px;
+}
+h1 {
+  color: rgb(24, 29, 25);
+  font-family: roboto;
+  font-size: 54px;
+  font-weight: 770;
+  line-height: 95px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.choosetitle {
+  color: rgb(59, 67, 62);
+  font-family: roboto;
+  font-size: 22px;
+  font-weight: 750;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 50px;
+}
+h3 {
+  color: rgb(24, 29, 25);
+  font-family: roboto;
+  font-size: 28px;
+  font-weight: 770;
+  line-height: 35px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.numbers {
+  display: flex;
+  justify-content: space-around;
+}
+.information {
+  display: flex;
+  column-gap: 30px;
+  margin-top: 50px;
+}
+.info__left {
+  width: 40%;
+  margin-top: 80px;
+}
+.info__right {
+  margin-top: 50px;
+}
